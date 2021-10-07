@@ -1,11 +1,11 @@
 # kary
 
 @ <br/>
-@ K  K<br/>
-@ K K<br/>
+@ K....K<br/>
+@ K..K<br/>
 @ KK<br/>
-@ K K<br/>
-@ K <br/>
+@ K..K<br/>
+@ K....K<br/>
 @ <br/>
 
 <!--
