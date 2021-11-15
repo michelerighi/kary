@@ -1,11 +1,11 @@
 # kary
 
 @ <br/>
-@ K....K...A.<br/>
-@ K..K....A.A<br/>
-@ KK......AAA<br/>
-@ K..K....A.A<br/>
-@ K....K..A.A<br/>
+@ K....K...A...R<br/>
+@ K..K....A.A..<br/>
+@ KK......AAA..<br/>
+@ K..K....A.A..<br/>
+@ K....K..A.A..<br/>
 @ <br/>
 
 <!--
