@@ -1,7 +1,7 @@
 # kary
 
 @ <br/>
-@ K....K...A...R<br/>
+@ K....K...A...RR<br/>
 @ K..K....A.A..R<br/>
 @ KK......AAA..R<br/>
 @ K..K....A.A..R<br/>
