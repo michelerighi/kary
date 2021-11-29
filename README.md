@@ -1,8 +1,8 @@
 # kary
 
 @ <br/>
-@ K....K...A...RR<br/>
-@ K..K....A.A..R.<br/>
+@ K....K...A...RR.<br/>
+@ K..K....A.A..R.R<br/>
 @ KK......AAA..RR<br/>
 @ K..K....A.A..R<br/>
 @ K....K..A.A..R<br/>
