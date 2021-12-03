@@ -5,7 +5,7 @@
 @ K..K....A.A..R.R<br/>
 @ KK......AAA..RR<br/>
 @ K..K....A.A..R.R<br/>
-@ K....K..A.A..R<br/>
+@ K....K..A.A..R.R<br/>
 @ <br/>
 
 <!--
